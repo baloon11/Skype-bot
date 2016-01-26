@@ -11,7 +11,7 @@ and run to play a music file (using vlc)
 ----------------------------------------------
 
 #### Requirements
-------------
+
 python 2.7
 
     sudo apt-get install vlc
